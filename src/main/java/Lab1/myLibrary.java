@@ -1,5 +1,6 @@
-package lab1;
-
+package Lab1;
+/* Comp3111LEx\Lab1\myLibrary.java
+ my Java library consists of 2 mathematical functions */
 public class myLibrary {
     public static int Power(int Base, int Exponent){
         if (Exponent==1){
