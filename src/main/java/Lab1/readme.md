@@ -23,7 +23,7 @@ Program ..Starting …
 Program ..Ended …
 ```
 
-## Screenshot
+## Screenshot 
 The screenshot below shows:
 1. Project tool window with spanning trees of `.idea` and `src`
 2. Java editor open on `mainApp1.java`
