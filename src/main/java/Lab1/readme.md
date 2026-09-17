@@ -18,7 +18,7 @@ This folder contains the Lab1 Java sources for the Comp3111LEx Maven project.
 Program ..Starting …
 1 + 1 = 2
 3rd print line for learning using GitHub
-2 to power 11 = 4096
+2 to power 11 = 2048
 11! = 39916800
 Program ..Ended …
 ```
