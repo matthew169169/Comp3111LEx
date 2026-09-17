@@ -29,5 +29,5 @@ The screenshot below shows:
 2. Java editor open on `mainApp1.java`
 3. Git Log with more than three commits
 
-[Lab1 IntelliJ screenshot](!(Screenshot%202026-09-17%20at%2022.48.50.png))
+![Lab1 IntelliJ screenshot](Screenshot%202026-09-17%20at%2022.48.50.png)
 
